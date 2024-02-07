@@ -43,4 +43,32 @@ WiFi Connected User Finder is a Python script designed to scan a local network a
 ## Example
 To scan the network with a custom IP address:
 ```bash
-python main.py -ip 192.168.10.1
+    python main.py -ip 192.168.10.1
+```
+
+## Tool Look Like 
+```bash
+           _  __ _
+          (_)/ _(_)
+ __      ___| |_ _
+ \ \ /\ / / |  _| |
+  \ V  V /| | | | |
+   \_/\_/ |_|_| |_|
+
+    Wifi connected user finder2
+                    (2rootv3)
+                    
+
+
+[*] Your wifi ip is active : 192.168.12.1
+
+[~] Host with IP 192.168.12.110 is online.
+[~] Host with IP 192.168.12.100 is online.
+[~] Host with IP 192.168.12.103 is online.
+[~] Host with IP 192.168.12.105 is online.
+
+Total Users : 4
+
+
+
+```
